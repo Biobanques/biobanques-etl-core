@@ -1,0 +1,8 @@
+-- pour importer un dump dans oracle il faut dabord créer le user
+create user biouser identified by biouser;
+--affecter les droits
+grant connect,unlimited tablespace, resource to biouser;
+--sortir
+exit;
+--importer le dump vi un shell
+imp system/password fromuser=biot touser=biouser file=c:\expdat.dmp

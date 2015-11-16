@@ -1,0 +1,2 @@
+#fixer le nb d erreurs max
+- pb move file to sent? quid si pb de delete file?
