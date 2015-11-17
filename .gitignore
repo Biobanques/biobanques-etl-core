@@ -1,0 +1,6 @@
+/etl-core/nbproject/private/
+/target/
+.project
+.classpath
+.settings
+.DS_Store
