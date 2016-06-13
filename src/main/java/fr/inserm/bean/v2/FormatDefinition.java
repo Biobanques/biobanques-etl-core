@@ -1,7 +1,7 @@
 package fr.inserm.bean.v2;
 
 /**
- * classe de definition du format. Definit les champs du format
+ * classe de definition du format. Definite les champs du format
  * 
  * @author nicolas
  * 

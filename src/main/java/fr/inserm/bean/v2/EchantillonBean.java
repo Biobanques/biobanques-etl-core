@@ -13,7 +13,7 @@ public class EchantillonBean {
 
 	/**
 	 * cle de mapping utile pour faire la correspondance avec les autres datasources. Champ non stocké dans les fichiers
-	 * excel Par exemple, pour Grenoble, nom_prenom_datenaissance
+	 * excel Par example, pour Grenoble, nom_prenom_datenaissance
 	 */
 	private String mappingKey;
 	/**
